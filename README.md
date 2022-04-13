@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumawat</h1>
+<h1 align="center">Hi 👋, I am Mohit Kumawat</h1>
 <h3 align="center">I am a full-stack web developer and UI/UX designer.</h3>
 
 <p align="left"> <a href="https://twitter.com/mohitkumawat310" target="blank"><img src="https://img.shields.io/twitter/follow/mohitkumawat310?logo=twitter&style=for-the-badge" alt="mohitkumawat310" /></a> </p>
