@@ -3,13 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohitkumawat310" target="blank"><img src="https://img.shields.io/twitter/follow/mohitkumawat310?logo=twitter&style=for-the-badge" alt="mohitkumawat310" /></a> </p>
 
-- 🔭 I’m currently working on [Vekva](https://vekva.com)
-
-- 🌱 I’m currently learning **React JS**
-
 - 👨‍💻 All of my projects are available at [https://peerlist.io/mohitkumawat](https://peerlist.io/mohitkumawat)
-
-- 📝 I regularly write articles on [https://mohit.vekva.com](https://mohit.vekva.com)
 
 - 📫 How to reach me **mohitkumawat310@gmail.com**
 
